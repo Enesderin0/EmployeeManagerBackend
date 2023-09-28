@@ -23,7 +23,7 @@ import lombok.AllArgsConstructor;
 
 @CrossOrigin
 @RestController
-@RequestMapping("/employee")
+@RequestMapping("/employees")
 @AllArgsConstructor
 public class EmployeeControler {
 	
